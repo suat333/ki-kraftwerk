@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini AI Powerhouse",
+  "description": "A comprehensive toolkit showcasing the power of the Gemini API, including advanced chat, image/video generation and analysis, real-time voice conversations, and grounded search capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
